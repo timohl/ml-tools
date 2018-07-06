@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Downloaded datasets
+pytorch_samples/cnn/data
